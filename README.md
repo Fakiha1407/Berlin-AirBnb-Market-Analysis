@@ -28,5 +28,3 @@ Complete Tableau dashboard including visuals and cleaned data.
 - CSV data (cleaned with Python or Excel)  
 - GitHub for version control
 
-## 📄 License  
-This project is licensed under the MIT License.
